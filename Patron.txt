@@ -1,0 +1,8 @@
+101 JOHN john@example.com Main_St ACTIVE 2
+102 JANE jane@example.com Oak_St ACTIVE 1
+103 BOB bob@example.com Pine_St INACTIVE 0
+104 ALICE alice@example.com Maple_St ACTIVE 3
+105 MIKE mike@example.com Cedar_St INACTIVE 0
+106 LUCY lucy@example.com Walnut_St ACTIVE 2
+107 ALI J@.COM BWP ACTIVE 2
+108 ABDUL_AHAD OWNER@GMAIL.COM APE ACTIVE 0
